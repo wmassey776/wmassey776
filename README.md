@@ -3,7 +3,7 @@ Python Engineer | Web Developer
 
 ## Contact Me
 
-[![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)]((mailto:wmasey776@gmail.com)) [![Twitter](https://img.shields.io/badge/-blue?&labelColor=black&label=LinkedIn&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmassey776/) [![GitHub](https://img.shields.io/badge/-blue?&labelColor=black&label=GitHub&logo=github&logoColor=white)](https://github.com/seraph776) 
+[![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)]((mailto:wmasey776@gmail.com)) [![Twitter](https://img.shields.io/badge/-blue?&labelColor=black&label=LinkedIn&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmassey776/) [![GitHub](https://img.shields.io/badge/-blue?&labelColor=black&label=GitHub&logo=github&logoColor=white)](https://github.com/massey776) 
  
  
 ## About Me
