@@ -1,24 +1,14 @@
 # Will Massey
 Python Engineer | Web Developer
-
-## Contact Me
-
-[![Gmail](https://img.shields.io/badge/-blue?&labelColor=black&label=Gmail&logo=gmail&logoColor=white)]((mailto:wmasey776@gmail.com)) [![Twitter](https://img.shields.io/badge/-blue?&labelColor=black&label=LinkedIn&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmassey776/) [![GitHub](https://img.shields.io/badge/-blue?&labelColor=black&label=GitHub&logo=github&logoColor=white)](https://github.com/massey776) 
- 
  
 ## About Me
 
 Hi there 👋 
 
-I am a Python Engineer and Web Developer. 
+I am a Python Engineer and Web Developer. I sucessfully completed the **Google IT Automation with Python** course.
 
-### I am available to create courses, or articles on the following topics:
+![image](https://user-images.githubusercontent.com/82993915/195964723-3f5d003c-bf76-47da-b5a6-83a299055c14.png)
 
-- Python 
-- Web Scrapping
-- Matplotlib
-- Django
-- Svelte
 
 <!--
 ---
@@ -44,40 +34,6 @@ I am a Python Engineer and Web Developer.
 - [US Capital Quiz](https://github.com/seraph776/US_capital_quiz)
 
 </details>
-
----
-
-## Publications
-
-<details>
-  <summary>Click to view</summary>
-
-
-<div align="center"> 
-
- Latest [Code★Crypt](https://seraph76.com/index.php/archives/) Articles 
-
-</div>
-
-- [Leap Year Algorithm Demystified](https://seraph76.com/index.php/2021/08/30/leap-year-algorithm-demystified/)
-- [Python: Comparing Adjacent Elements in a List](https://seraph76.com/index.php/2021/08/26/python-comparing-adjacent-elements-in-a-list/?)
-- [How to use Windows checksum Utilities](https://seraph76.com/index.php/2021/07/31/lab-how-to-use-windows-checksum-utilities/)
-- [Binary Search Algorithm](https://seraph76.com/index.php/2021/07/28/python-binary-search-algorithm/)
-- [Luhn Algorithm - Credit Card Number Validator](https://seraph76.com/index.php/2021/07/29/credit-card-number-validator-using-luhn-algorithm/)
-- [Python: Input/ Output Techniques](https://seraph76.com/index.php/2021/08/15/python-input-output-techniques)
-
-</details>
-
-
--->
----
-
-## Available For
-- Freelance Work
-- Project Collaboration
-- Open-Source Contribution
-
-
 
 
 ---
