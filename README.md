@@ -1,40 +1,47 @@
 # Will Massey
 Python Engineer | Web Developer
- 
+
+[![Gmail](https://img.shields.io/badge/Gmail-black?&logo=gmail&logoColor=white&labelColor=red&style=for-the-badge)](mailto:wmassey776@gmail.com)
+[![Freelancer](https://img.shields.io/badge/Freelancer-black?&logo=freelancer&logoColor=white&labelColor=blue&style=for-the-badge)](https://www.freelancer.com/u/massey776)
+[![Fiver](https://img.shields.io/badge/Fiverr-black?&logo=fiverr&logoColor=white&labelColor=green&style=for-the-badge)](https://www.fiverr.com/massey776)
+
+
 ## About Me
 
 Hi there 👋 
 
-I am a Python Engineer and Web Developer. I sucessfully completed the **Google IT Automation with Python** course.
+I am a Python Engineer and Web Developer. 
 
-![image](https://user-images.githubusercontent.com/82993915/195964723-3f5d003c-bf76-47da-b5a6-83a299055c14.png)
+## GitHub Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 
-
-<!--
----
-## Code Portfolio 
 <details>
-  <summary>Click to view</summary>
 
-- [Binary Search Algorithm](https://github.com/seraph776/binary_search)
-- [Codecademy Developer Projects](https://github.com/seraph776/codecademy)  - 
-- [Credit Card Validator](https://github.com/seraph776/credit_card_validator)
-- [Google Translator](https://github.com/seraph776/google_translator)
-- [GUI Calculator](https://github.com/seraph776/GUI_calculator)
-- [Leap Year Calculator](https://github.com/seraph776/leap_year_calculator)
-- [Magic 8 Ball](https://github.com/seraph776/magic8_ball)
-- [Number Guessing Game](https://github.com/seraph776/number_guessing_game)
-- [Password Generator](https://github.com/seraph776/password_generator)
-- [Pig Latin Encoder](https://github.com/seraph776/pig_latin_encoder)
-- [Rock, Paper, Scissors](https://github.com/seraph776/rock_paper_scissors) Coming soon....
-- [Russian Roulette Game](https://github.com/seraph776/russian_roulette)
-- [RSS Feed Reader](https://github.com/seraph776/rss_feed_reader)
-- [Text-2-Speech](https://github.com/seraph776/text-2-speech)
-- [The Snake Game](https://github.com/seraph776/snake_game)
-- [US Capital Quiz](https://github.com/seraph776/US_capital_quiz)
+<summary>My GitHub stats</summary>
+
+<div align="center">
+
+[![Massey's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmassey776&count_private=true&title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40&show_icons=true)](https://github.com/wmassey776) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmassey776&theme=tokyonight)](https://github.com/seraph776)
+[![Seraph776's github activity graph](https://activity-graph.herokuapp.com/graph?username=wmassey776&theme=redical)](https://github.com/seraph776)
+
+</div>
 
 </details>
 
+
+## IT Certification
+I sucessfully completed the **Google IT Automation with Python** course.
+
+<details> 
+ 
+<summary>Click to view</summary>
+ 
+ 
+[![image](https://user-images.githubusercontent.com/82993915/195964723-3f5d003c-bf76-47da-b5a6-83a299055c14.png)](https://www.coursera.org/account/accomplishments/verify/PDH77DM8CPJ5)
+ 
+</details> 
+
+<!--
 
 ---
 
